@@ -1,0 +1,83 @@
+---
+title: "Full Text"
+---
+
+## A. Funding Opportunity Description
+
+## 1. Background
+
+### a. Overview
+
+U.S. drug overdose deaths increased to historic levels in recent years, with provisional estimates indicating over 108,000 predicted deaths occurring in the 12 months ending May 2022. While increases are seen across the U.S. and in most populations, recent increases were highest among certain racial/ethnic minority populations, including non-Hispanic Black (44%) and Native Hawaiian/Other Pacific Islander persons (44%). Systemic racism and its impacts on social determinants of health have resulted in disparities in access to, linkage to, and retention in treatment for substance use disorders, compounding risk in certain populations.
+
+While most overdose deaths involve opioids, deaths involving stimulants alone or with opioids have also substantially increased. Data from substance use disorder treatment programs also show an increase in persons reporting stimulants as the primary substance of use at treatment admission.
+
+There is an increasing need to support localities to build an infrastructure of overdose surveillance, harm reduction, recovery, and care in communities most impacted by the overdose crisis. The evolving drug problem is local, complex and dynamic, requiring locally tailored and culturally-relevant solutions. A strong foundation of cooperation and partnership across public health, behavioral health, health systems, community organizations, and public safety is necessary to build overdose infrastructure and cohesive programs that have multiple access points and address health inequities in overdose.
+
+Addressing disparities in overdose is an overarching goal within every strategy in this NOFO. Activities must be culturally-relevant to those disproportionately affected by overdose and historically underserved, including persons recently released from incarceration, people experiencing homelessness, certain racial and ethnic groups, and anyone who has experienced a non-fatal overdose. Foundational to programmatic success, local health departments will need to leverage new and existing partners. Data generated through surveillance, prevention programs and by partners should be used to inform program implementation, focus on those at highest risk, and reduce health inequities.
+
+This NOFO has three components:
+
+-   Component A (Required, up to 40 recipients selected): All applicants must apply to this component.
+
+-   Component B (Optional and competitive, up to 20 recipients selected from the 40 selected in Component A).
+
+-   Component C (Optional and competitive, up to 20 recipients selected from the 40 selected in Component A).
+
+Funding for this NOFO will prioritize jurisdictions with higher drug overdose burdens and larger populations and ensure geographic diversity. Applicants must describe their catchment area and calculate their unintentional or undetermined drug overdose (UUDO) death burden and population size as outlined in **Appendix 1**. An optional sample form is provided in **Appendix 2b** with detailed instructions in **Appendix 2a** to help applicants calculate their UUDO death burden and population size. Applicants are not required to use this form. If a different format is used it must contain three required pieces of information: (1) counties, cities, or territories in their service catchment area, (2) UUDO deaths, and (3) population. Upload this information to [www.grants.gov](https://www.grants.gov/) in a document named "\<Applicant Name\> OD2A\_ LOCAL\_ Overdose\_ Burden and Funding Form". If an Excel file is used, do not convert to PDF. Upload in its original format.
+
+### b. Statutory Authorities
+
+Section 392A of the Public Health Service (PHS) Act (42 U.S.C. § 280b---1) and Section 311(c)(1) of the PHS Act (42 U.S.C. § 243).
+
+### c. Healthy People 2030
+
+This NOFO supports the following Healthy People 2030 topic areas:
+
+[Addiction](https://health.gov/healthypeople/objectives-and-data/browse-objectives/addiction)
+
+[Drug and Alcohol Use](https://health.gov/healthypeople/objectives-and-data/browse-objectives/drug-and-alcohol-use)
+
+[Health Care Access and Quality](https://health.gov/healthypeople/objectives-and-data/browse-objectives/health-care-access-and-quality)
+
+[Injury Prevention](https://health.gov/healthypeople/objectives-and-data/browse-objectives/injury-prevention)
+
+[Mental Health and Mental Health Disorders - General](https://health.gov/healthypeople/objectives-and-data/browse-objectives/mental-health-and-mental-disorders)
+
+### d. Other National Public Health Priorities and Strategies
+
+This NOFO supports the following national strategies:
+
+HHS Overdose Prevention Strategy (<https://www.hhs.gov/overdose-prevention/>)
+
+National Drug Control Strategy ([https://www.whitehouse.gov/wp￾content/uploads/2022/04/National-Drug-Control-2022Strategy.pdf](https://www.whitehouse.gov/wp-content/uploads/2022/04/National-Drug-Control-2022Strategy.pdf))
+
+Ending the HIV Epidemic (<https://www.cdc.gov/endhiv/>)
+
+HHS Health Equity Action Plan ([https://www.hhs.gov/sites/default/files/hhs-equity-action￾plan.pdf](https://www.hhs.gov/sites/default/files/hhs-equity-action-plan.pdf))
+
+### e. Relevant Work
+
+This program builds upon CDC's historical funding opportunities related to reducing overdose and related harms, including:
+
+*Prevention BOOST*
+
+*Prevention for States*: <https://www.cdc.gov/drugoverdose/states/state_prevention.html>
+
+*Data-Driven Prevention Initiative*: [Data-Driven Prevention Initiative (DDPI) \| Drug Overdose \|](https://www.cdc.gov/drugoverdose/foa/ddpi.html)
+
+[CDC Injury Center](https://www.cdc.gov/drugoverdose/foa/ddpi.html)
+
+*Enhanced State Opioid Overdose Surveillance Program*: <https://www.cdc.gov/drugoverdose/foa/state-opioid-mm.html>
+
+*Opioid Prevention in States -- Surge Support via the Cooperative Agreement for Emergency*
+
+*Response*: Opioid Funding - CDC
+
+*Overdose Data to Action*: <https://www.cdc.gov/drugoverdose/od2a/index.html>
+
+Implementing Overdose Prevention Strategies at the Local Level: [Microsoft PowerPoint - RFA](https://www.naccho.org/uploads/downloadable-resources/IOPSLL-Pre-RFA-Info-Webinar.pdf)
+
+[Info Webinar (naccho.org)](https://www.naccho.org/uploads/downloadable-resources/IOPSLL-Pre-RFA-Info-Webinar.pdf)
+
+## 2. CDC Project Description

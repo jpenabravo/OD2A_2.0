@@ -1,0 +1,22 @@
+project:
+  type: website
+
+website:
+  title: "OD2A 2.0"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - overview.qmd
+      - full_text.qmd
+      - appendixes.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    toc-location: left
+
+editor: visual
+

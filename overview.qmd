@@ -1,0 +1,161 @@
+---
+title: "Part I. Overview"
+---
+
+Applicants must go to the synopsis page of this announcement at [www.grants.gov](https://www.grants.gov/) and click on the "Subscribe" button link to ensure they receive notifications of any changes to CDC-RFA-CE-23-0003. Applicants also must provide an e-mail address to [www.grants.gov](https://www.grants.gov/) to receive notifications of changes.
+
+## A. Federal Agency Name:
+
+Centers for Disease Control and Prevention (CDC)
+
+## B. Notice of Funding Opportunity (NOFO) Title:
+
+Overdose Data to Action: Limiting Overdose through Collaborative Actions in Localities (OD2A: LOCAL)
+
+## C. Announcement Type: New - Type 1:
+
+This announcement is only for non-research activities supported by CDC. If research is proposed, the application will not be considered. For this purpose, research is defined at [https://www.gpo.gov/fdsys/pkg/CFR-2007-title42-vol1/pdf/CFR-2007-title42-vol1-sec52- 2.pdf](https://www.govinfo.gov/content/pkg/CFR-2007-title42-vol1/pdf/CFR-2007-title42-vol1-sec52-2.pdf). Guidance on how CDC interprets the definition of research in the context of public health can be found at [https://www.hhs.gov/ohrp/regulations-and-policy/regulations/45-cfr\\ufffe46/index.html](https://www.hhs.gov/ohrp/regulations-and-policy/regulations/45-cfr-46/index.html) (See section 45 CFR 46.102(d)).
+
+New-Type 1
+
+## D. Agency Notice of Funding Opportunity Number:
+
+CDC-RFA-CE-23-0003
+
+## E. Assistance Listings Number:
+
+93.136
+
+## F. Dates:
+
+### 1. Due Date for Letter of Intent (LOI):
+
+The LOI date will generate once the Synopsis is published if Days or a Date are entered.
+
+Recommended but not Required
+
+An LOI is requested, but not required. LOIs should indicate the intention to apply and to which components. The purpose of an LOI is to allow CDC program staff to estimate the number of applications and plan for the review of submitted applications. The LOI should contain the following information:
+
+-   Name of jurisdiction intending to apply to this NOFO.
+
+-   A preliminary decision about whether the applicant intends to apply for either or both of the optional and competitive surveillance components (Component B and/or Component C). This preliminary decision should be clearly and succinctly stated, "Plan to apply to Component B, but not Component C". If the applicant does not plan to apply for either Component B or Component C, please write, "Will not apply for Component B or Component C".
+
+When submitting the LOI, please follow these instructions to help CDC rapidly identify and process your LOI:
+
+-   Send LOI via email to OD2A_LOCAL\@cdc.gov.
+
+-   The subject of the email should be "LOI Overdose Data to Action: Limiting Overdose through Collaborative Actions in Localities (OD2A: LOCAL)".
+
+-   The email with the LOI should be addressed to "OD2A: LOCAL Team, Division of Overdose Prevention, CDC".
+
+### 2. Due Date for Applications:
+
+05/08/2023
+
+11:59 p.m. U.S. Eastern Standard Time, at [www.grants.gov](https://www.grants.gov/).
+
+### 3. Due Date for Informational Conference Call
+
+[**First Informational Call**]{.underline}
+
+**When: March 13, 2023, 03:00 PM -- 5: 00 PM Eastern Time (US and Canada)**
+
+Recording will be available on [this webpage](https://www.cdc.gov/drugoverdose/od2a/funding-announcements/local.html).
+
+Topic: OD2A: LOCAL First National Informational Call
+
+Register in advance for this webinar:
+
+https://us02web.zoom.us/webinar/register/WN_OAipA2W9Th-m9kB2TeKiHw
+
+After registering, you will receive a confirmation email containing information about joining the webinar.
+
+This two-hour call provides a comprehensive overview of the required strategies of the NOFO, presenting eligibility requirements, prevention strategies, a walk-through of the application and selection process, and a discussion of Component A, which is required for all applicants. Throughout the session, participants will have the opportunity to ask questions. All potential applicants are encouraged to attend this call. A recording will be posted [here](https://www.cdc.gov/drugoverdose/od2a/index.html) following the webinar.
+
+[**Second Informational Call**]{.underline}
+
+**When: March 14, 2023, 12:00 PM -- 1:30 PM Eastern Time (US and Canada)**
+
+Topic: OD2A: LOCAL Second National Informational Call
+
+Register in advance for this webinar:
+
+https://us02web.zoom.us/webinar/register/WN_H3rwiCStRQi3_ikTOVJdWA
+
+Recording will be available on [this webpage](https://www.cdc.gov/drugoverdose/od2a/funding-announcements/local.html).
+
+After registering, you will receive a confirmation email containing information about joining the webinar. This 90- minute call focuses on the optional and competitive NOFO strategies in Components B (Drug product and/or paraphernalia testing) and C (Linkage to and retention in care surveillance). Throughout the session, participants will have the opportunity to ask questions about both optional and competitive strategies. All potential applicants are encouraged to attend this call, although it will be of particular benefit to jurisdictions planning to apply for optional strategies. A recording will be posted [here](https://www.cdc.gov/drugoverdose/od2a/index.html) following the webinar.
+
+## G. Executive Summary:
+
+### **Summary Paragraph**
+
+Overdose Data to Action: Limiting Overdose through Collaborative Actions in Localities (OD2A: LOCAL) will support city or county local health departments (LHDs), special district health departments, and territories to use data to drive actions that reduce overdose morbidity and mortality in communities, with a primary focus on opioids and/or stimulants.
+
+The NOFO has three components:
+
+-   Component A: Core Prevention and Surveillance Strategies (required)
+
+-   Component B: Drug Product and/or Paraphernalia Testing (optional)
+
+-   Component C: Linkage to and Retention in Care Surveillance (optional)
+
+Within the five years, recipients will:
+
+-   Decrease nonfatal and fatal drug overdoses, overall and especially among disproportionately affected and underserved populations, with a primary focus on overdoses involving opioids and/or stimulants, including polysubstance use.
+
+-   Reduce health inequities related to overdose by closing gaps in access to care and services.
+
+-   Integrate harm reduction strategies and principles.
+
+-   Improve linkage to and re-engagement and retention in services, care, treatment, and recovery, focused on opioid use disorder (OUD) and stimulant use disorder (StUD).
+
+-   Build overdose surveillance infrastructure.
+
+-   Track and address emerging drug threats.
+
+-   Track linkage to and retention in care.
+
+### **a. Eligible Applicants:**
+
+Open Competition
+
+### b. NOFO Type:
+
+CA (Cooperative Agreement)
+
+### c. Approximate Number of Awards
+
+40
+
+Up to 40 recipients will be funded to conduct activities under Component A. Among those 40, up to 20 will be funded for Component B and up to 20 will be funded for Component C.
+
+### d. Total Period of Performance Funding:
+
+\$400,000,000
+
+### e. Average One Year Award Amount:
+
+\$80,000,000
+
+Component A: \$2,000,000
+
+Component B: \$250,000 - \$325,000
+
+Component C: \$250,000 - \$325,000
+
+### f. Total Period of Performance Length:
+
+5 year(s)
+
+### g. Estimated Award Date:
+
+August 01, 2023
+
+### h. Cost Sharing and / or Matching Requirements:
+
+No
+
+Cost sharing or matching funds are not required for this program. Although no statutory matching requirement for this NOFO exists, leveraging other resources and related ongoing efforts to promote sustainability is strongly encouraged.
+
+Consistent with the cited authority for this announcement and applicable grants regulations, sources for cost sharing or matching may include complementary foundation funding, other U.S. government funding sources including programs supported by HHS or other agencies (e.g., Department of Justice, Department of Agriculture, Department of Education, Department of Housing and Urban Development, Department of Transportation, Environmental Protection Agency, National Park Service) and other funding sources. Applicants should coordinate with multiple sectors such as public health, transportation, education, health care delivery, and agriculture.
